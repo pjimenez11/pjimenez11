@@ -1,5 +1,7 @@
+<div align = "center">
 <img align="center" alt="profile" src="https://cdn-icons-png.flaticon.com/512/6478/6478099.png" width="300px"/>
-
+</div>
+<br>
 <p align="center">
 Soy un estudiante apasionado por la programación web. Mi objetivo es desarrollar aplicaciones web escalables, fáciles de mantener y fáciles de usar que brinden una experiencia de usuario perfecta. Constantemente estoy aprendiendo y experimentando con nuevas tecnologías y marcos para encontrar las mejores soluciones a los problemas actuales.
 </p>
